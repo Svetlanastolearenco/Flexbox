@@ -23,6 +23,7 @@ body{
     background-color: var(--white-dark);
     display: flex;
     flex-wrap: wrap;
+    justify-content: center
 }
 section .header{
     display: flex;
